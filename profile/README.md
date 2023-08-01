@@ -7,6 +7,7 @@ Plugins:
 - [ZLInflator](https://github.com/ZL-Audio/ZLInflator): distortion/saturation plugin
 - [ZLLMatch](https://github.com/ZL-Audio/ZLLMatch): loudness matching plugin
 - [ZLLMakeup](https://github.com/ZL-Audio/ZLLMakeup): loudness make-up plugin
+- [ZLEComp](https://github.com/ZL-Audio/ZLEComp): compressor plugin
 
 
 Tools:
