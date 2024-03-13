@@ -4,11 +4,13 @@ ZL Audio makes audio plugins and audio processing tools.
 
 Plugins:
 
-- [ZLInflator](https://github.com/ZL-Audio/ZLInflator): distortion/saturation plugin
+- [ZLEqualizer](https://github.com/ZL-Audio/ZLEqualizer): equalizer plugin
 - [ZLWarm](https://github.com/ZL-Audio/ZLWarm): distortion/saturation plugin
-- [ZLLMatch](https://github.com/ZL-Audio/ZLLMatch): loudness matching plugin
+- [ZLWarm](https://github.com/ZL-Audio/ZLWarm): distortion/saturation plugin
 - [ZLLMakeup](https://github.com/ZL-Audio/ZLLMakeup): loudness make-up plugin
-- [ZLEComp](https://github.com/ZL-Audio/ZLEComp): compressor plugin
+- [ZLLMatch](https://github.com/ZL-Audio/ZLLMatch): loudness matching plugin
+- [ZLInflator](https://github.com/ZL-Audio/ZLInflator): distortion/saturation plugin
+
 
 
 Tools:
