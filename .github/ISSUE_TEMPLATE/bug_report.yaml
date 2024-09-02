@@ -15,7 +15,7 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       value: |
-        - Plugin version:
+        - Plugin version & format:
         - A clear and concise description of what the bug is:
         - A clear and concise description of what you expected to happen:
       render: markdown
@@ -25,9 +25,10 @@ body:
     id: context
     attributes:
       label: Additional information
-      description: Tell us your operation system and your DAW.
+      description: Tell us your operating system and your DAW.
       value: |
-        - Operating system (& version is applicable):
+        - Operating system (& version if applicable):
+        - Hardware (CPU & GPU if applicable):
         - DAW:
       render: markdown
     validations:
