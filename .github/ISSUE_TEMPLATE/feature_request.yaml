@@ -6,11 +6,12 @@ assignees:
   - zsliu98
 body:
   - type: checkboxes
-    id: have-checked
     attributes:
       label: Thanks for taking the time to make a feature request!
+      description: Please read the plugin manual and search existing issues to avoid creating duplicates.
       options:
-        - label: I have checked open issues.
+      - label: I have read the plugin manual and searched the existing issues.
+        required: true
   - type: textarea
     id: reason
     attributes:
