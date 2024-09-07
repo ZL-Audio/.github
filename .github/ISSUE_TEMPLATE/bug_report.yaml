@@ -4,11 +4,14 @@ title: "[BUG]: "
 labels: ["bug"]
 assignees:
   - zsliu98
-body:
-  - type: markdown
+body:  
+  - type: checkboxes
+    id: have-checked
     attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
+      label: Thanks for taking the time to fill out this bug report!
+      options:
+        - label: I have read the manual and checked opened issues. There is no duplicate issue.
+          required: true
   - type: textarea
     id: what-happened
     attributes:
