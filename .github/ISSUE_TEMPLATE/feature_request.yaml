@@ -5,10 +5,12 @@ labels: ["enhancement"]
 assignees:
   - zsliu98
 body:
-  - type: markdown
+  - type: checkboxes
+    id: have-checked
     attributes:
-      value: |
-        Thanks for taking the time to make a feature request!
+      label: Thanks for taking the time to make a feature request!
+      options:
+        - label: I have checked opened issues. There is no duplicate feature request.
   - type: textarea
     id: reason
     attributes:
