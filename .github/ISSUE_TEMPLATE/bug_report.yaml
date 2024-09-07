@@ -8,8 +8,7 @@ body:
   - type: markdown
     id: have-checked
     attributes:
-      label: Thanks for taking the time to fill out this bug report!
-      description: Please read the plugin manual and search existing issues to avoid creating duplicates.
+      value: Thanks for taking the time to fill out this bug report! Please read the plugin manual and search existing issues to avoid creating duplicates.
   - type: textarea
     id: what-happened
     attributes:
