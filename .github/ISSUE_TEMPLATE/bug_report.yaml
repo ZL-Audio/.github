@@ -10,7 +10,7 @@ body:
     attributes:
       label: Thanks for taking the time to fill out this bug report!
       options:
-        - label: I have read the plugin manual and checked opened issues.
+        - label: I have read the plugin manual and checked open issues.
   - type: textarea
     id: what-happened
     attributes:
