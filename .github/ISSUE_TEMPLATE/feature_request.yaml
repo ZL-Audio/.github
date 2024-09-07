@@ -10,7 +10,7 @@ body:
     attributes:
       label: Thanks for taking the time to make a feature request!
       options:
-        - label: I have checked opened issues. There is no duplicate feature request.
+        - label: I have checked opened issues.
   - type: textarea
     id: reason
     attributes:
