@@ -5,12 +5,11 @@ labels: ["bug"]
 assignees:
   - zsliu98
 body:  
-  - type: checkboxes
+  - type: markdown
     id: have-checked
     attributes:
       label: Thanks for taking the time to fill out this bug report!
-      options:
-        - label: I have read the plugin manual and checked open issues.
+      description: Please read the plugin manual and search existing issues to avoid creating duplicates.
   - type: textarea
     id: what-happened
     attributes:
