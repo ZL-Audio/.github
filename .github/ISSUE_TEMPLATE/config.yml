@@ -1,5 +1,4 @@
 blank_issues_enabled: false
 contact_links:
   - name: General Questions
-    url: ../../discussions
-    about: Ask and answer general questions here.
+    about: Ask general questions in [Discussions](../discussions).
