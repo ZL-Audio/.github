@@ -8,12 +8,6 @@ Plugins:
 - [ZLCompressor](https://github.com/ZL-Audio/ZLCompressor): compressor plugin
 - [ZLSplitter](https://github.com/ZL-Audio/ZLSplitter): splitter plugin
 
-- [ZLWarm](https://github.com/ZL-Audio/ZLWarm): distortion/saturation plugin
-- [ZLLMakeup](https://github.com/ZL-Audio/ZLLMakeup): loudness make-up plugin
-- [ZLLMatch](https://github.com/ZL-Audio/ZLLMatch): loudness matching plugin
-- [ZLInflator](https://github.com/ZL-Audio/ZLInflator): distortion/saturation plugin
-
-
 
 Tools:
 
