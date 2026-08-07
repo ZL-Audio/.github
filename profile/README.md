@@ -4,9 +4,10 @@ ZL Audio makes audio plugins and audio processing tools.
 
 Plugins:
 
-- [ZLEqualizer](https://github.com/ZL-Audio/ZLEqualizer): dynamic equalizer plugin
-- [ZLCompressor](https://github.com/ZL-Audio/ZLCompressor): dynamic range processor plugin
-- [ZLSplitter](https://github.com/ZL-Audio/ZLSplitter): splitter plugin
+- [ZL Equalizer 2](https://github.com/ZL-Audio/ZLEqualizer): dynamic equalizer plugin
+- [ZL Spectrum Equalizer](https://github.com/ZL-Audio/ZLSpectrumEqualizer): dynamic spectrum equalizer plugin
+- [ZL Compressor](https://github.com/ZL-Audio/ZLCompressor): dynamic range processor plugin
+- [ZL Splitter](https://github.com/ZL-Audio/ZLSplitter): splitter plugin
 
 DSP:
 
